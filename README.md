@@ -2,4 +2,4 @@
 
 
 
-Python to becom text to gif neon word
+Python to become text to gif neon word
